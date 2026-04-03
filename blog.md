@@ -68,7 +68,7 @@ More exciting posts will be coming soon!
 {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}" target="_blank" class="post-link">
-      {{ 2026-04-03-first-post.md }}
+      {{ 2026-04-03-first-post.html }}
     </a>
   </li>
 {% endfor %}
