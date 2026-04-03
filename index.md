@@ -1,4 +1,4 @@
-<a href="about.html">About</a> |
+<a href="about.md">About</a> |
 <a href="blog.html">Blog</a> |
 <a href="contact.html">Contact</a>
 
