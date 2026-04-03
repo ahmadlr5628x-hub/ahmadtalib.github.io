@@ -2,27 +2,34 @@
 layout: default
 title: About
 ---
-
-# About Me
-.Hi! I’m Ahmad Talib, a passionate learner and content creator based in Faisalabad, Pakistan. I love sharing knowledge, exploring new ideas, and connecting with people from all over the world.
-I started this blog to express my thoughts, share useful tips, and document my journey in learning and growing. Here, you’ll find a mix of educational content, personal experiences, tech insights, and a little bit of humor to keep things fun!
-My Interests
-Technology & Coding – Always experimenting with new projects and learning new skills.
-Education & Learning – Sharing tips and tricks for students and learners like me.
-Creativity & Blogging – Writing, designing pages, and exploring new ideas.
-Social Media & Networking – Connecting with like-minded people and staying updated.
-
-I completed:
-- Matric: 93%
-- Intermediate: 87%
-
-Currently, I am doing Computer Engineering.
-
-## Skills
-- Programming (C#, Python)
-- Machine Learning
-- Web Development
-
-## Goal
-To become a professional computer engineer.
-
+##About Me
+Hello! I’m Ahmad Talib, a dedicated and enthusiastic content creator, blogger, and lifelong learner based in Faisalabad, Pakistan. With a strong interest in technology, education, and digital communication, I focus on creating meaningful and engaging content that educates, informs, and inspires.
+I have a passion for sharing knowledge, whether through blogs, tutorials, or online discussions. Over time, I’ve developed skills in web development, content creation, and digital communication, which allow me to effectively convey complex ideas in an accessible way.
+Professional Skills & Expertise
+Content Creation & Blogging – Crafting well-researched articles, tutorials, and guides.
+Digital Communication – Engaging audiences across social media platforms and blogs.
+Web Development & Design – Building functional and visually appealing web pages.
+Problem-Solving & Learning – Continuously improving skills and exploring new technologies.
+Personal Values
+I strongly believe in continuous learning, integrity, and helping others grow. My goal is to contribute positively to the online community by providing content that is informative, practical, and easy to follow.
+##Skills
+1. Programming & Software Development
+Python – Proficient in writing clean, efficient code for problem-solving and projects.
+Object-Oriented Programming (OOP) – Strong understanding of classes, objects, inheritance, and encapsulation.
+Database Management Systems (DBMS) – Skilled in designing, querying, and managing databases using SQL.
+Digital Logic Design (DLD) – Knowledge of logic gates, circuits, and combinational & sequential systems.
+Applied Computing Tools (AICT) – Experience with practical applications of computing tools for problem-solving.
+Discrete Mathematics (DM) – Understanding of sets, relations, graphs, combinatorics, and logic for computing.
+2. Mathematics & Analytical Skills
+Calculus – Derivatives, integrals, limits, and their applications in problem-solving.
+Applied Physics – Understanding of mechanics, electricity, magnetism, and modern physics concepts.
+Mathematical Problem Solving – Ability to apply mathematical principles to real-world and computing problems.
+3. Web & Digital Skills
+Web Development – HTML, CSS, and basic JavaScript for building and customizing pages.
+Content Creation & Blogging – Writing, designing, and sharing content professionally.
+SEO & Digital Communication – Optimizing content for visibility and engaging audiences online.
+4. Professional Attributes
+Analytical thinking and logical problem-solving.
+Adaptable to new technologies and tools.
+Strong communication and collaboration skills.
+Detail-oriented with a focus on quality and accuracy.a
