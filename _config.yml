@@ -2,6 +2,6 @@ title: Ahmad Talib
 description: Computer Engineering Student Blog
 theme: jekyll-theme-midnight
 
-
+permalink:/:title/
 author:
   name: Ahmad Talib
