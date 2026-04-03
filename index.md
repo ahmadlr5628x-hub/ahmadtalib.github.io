@@ -1,3 +1,9 @@
+<a href="about.html">About</a> |
+<a href="blog.html">Blog</a> |
+<a href="contact.html">Contact</a>
+
+
+
 ---
 layout: default
 title: Home
