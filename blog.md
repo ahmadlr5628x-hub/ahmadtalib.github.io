@@ -71,5 +71,4 @@ More exciting posts will be coming soon!
   </li>
 {% endfor %}
 </ul>
-_posts/2025-04-03-my-first-blog.md
 <a href="_posts/2025-04-03-my-first-blog.html">My First Blog</a>
