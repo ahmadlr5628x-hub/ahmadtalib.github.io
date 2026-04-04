@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "My Journey of Creating a Personal Blog Website"
 date: 2026-04-03
 ---
