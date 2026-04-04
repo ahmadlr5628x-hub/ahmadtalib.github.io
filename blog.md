@@ -63,12 +63,18 @@ Thank you for taking the time to read my first blog post. This is just the begin
 If you are interested in technology, programming, or learning new things, feel free to follow my blog and stay connected.
 
 More exciting posts will be coming soon!
+---
+layout: default
+title: Blog
+---
+
+# Blog
 
 <ul>
-{% for post in site.posts %}
-  <li>
-   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
 </ul>
 <a href="_posts/2025-04-03-my-first-blog.html">My First Blog</a>
