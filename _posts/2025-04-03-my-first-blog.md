@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "My Journey of Creating a Personal Blog Website"
-date: 2026-04-03
+title: "My First Blog Post"
+date: 2026-04-06
+categories: blog
 ---
 
 # My Journey of Creating a Personal Blog Website
