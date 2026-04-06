@@ -1,23 +1,6 @@
-me# Site settings
-title: Ahmad Talib
-description: Computer Engineering Student Blog
-theme: jekyll-theme-midnight
+title: Ahmad Talib Blog
+description: Personal blog of a Computer Engineering student sharing knowledge about DLD, DBMS, and programming.
 
-"
+theme: jekyl-theme-midnight
 
-
-
-# Markdown processor
 markdown: kramdown
-
-# Base URL
-# Leave it empty if your site is published at ahmadtalib.github.io
-baseurl: "" 
-
-# URL of your site
-# Example: https://ahmadtalib.github.io
-url: "https://ahmadtalib.github.io"
-
-permalink:/:title/
-author:
-  name: Ahmad Talib
