@@ -63,4 +63,3 @@ Comparing my first and second semesters, I can clearly see how much I have grown
 My journey from admission to completing the second semester has been full of learning, challenges, and personal growth. Every course, assignment, and project has helped me become a more confident learner and a better problem solver. I believe this is only the beginning of my journey, and I am excited to continue exploring new technologies, improving my skills, and sharing my experiences through this blog.
 ```
 
-
